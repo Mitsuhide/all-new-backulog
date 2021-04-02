@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866649167458",
+    "project_id": "backulog-dev",
+    "storage_bucket": "backulog-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866649167458:android:57e0cb440473a7ec3be33b",
+        "android_client_info": {
+          "package_name": "com.ttop.backulog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866649167458-1s221p49l3oveok51f7jgcg2kb43u0aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvznvu3XAF95N8cqhtsNusnAMjvFrT9G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866649167458-1s221p49l3oveok51f7jgcg2kb43u0aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

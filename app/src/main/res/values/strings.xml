@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">backulog</string>
+    <string name="menu_jeux">Jeux</string>
+    <string name="menu_films">Films</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="title_activity_main_activityfds">MainActivityfds</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_title">Ajouter au backlog</string>
+    <string name="add_name">Nom de l\'oeuvre</string>
+    <string name="add_button">Ajouter</string>
+    <string name="add_close_description">Fermer</string>
+</resources>
